@@ -2,7 +2,10 @@
 
 ## Project setup
 ```
-npm install
+npm i -g @vue/cli
+vue create '프로젝트명'
+vue.config.js
+
 ```
 
 ### Compiles and hot-reloads for development
